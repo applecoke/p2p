@@ -1,3 +1,5 @@
 public class Tb {
-    public void b(){}
+    public void b(){
+        int x;
+    }
 }
