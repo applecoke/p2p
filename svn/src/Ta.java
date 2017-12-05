@@ -4,5 +4,6 @@ public class Ta {
     public void m(){}
     public void b(){
         int x=0;
+        int y=0;
     }
 }
